@@ -1,0 +1,70 @@
+.navbar-brand {
+    padding-right: 600px;
+}
+
+.btn-read {
+    background-color: transparent;
+}
+
+#red-container {
+    background-color: red;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.bd-placeholder-img {
+    background-image: url("/starter-code/img/wine.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bd-placeholder-img1 {
+    background-image: url("/starter-code/img/star.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bd-placeholder-img2 {
+    background-image: url("/starter-code/img/heart-symbol-transparent-2.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+#latest-projects{
+    margin: 5rem;
+}
+
+#latest-projects img{
+    width: 150px;
+}
+
+#latest-articles{
+    margin: 5rem;
+}
+
+#latest-articles img{
+    width: 150px;
+}
+
+#grey{
+    background-color: lightgrey;
+    padding: 2rem 5rem;
+}
+
+.grey-text{
+opacity: 0.5;
+display: flex;
+position: flex-start;
+}
+
+footer{
+    padding: 0 3rem;
+    background-color: grey;
+}
